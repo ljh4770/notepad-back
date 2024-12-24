@@ -1,0 +1,14 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.env
+.env
+.venv
+venv/
+
+# FastAPI and general Python project ignores
+instance/
+*.log
+*.sqlite3
+*.db
